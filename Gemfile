@@ -8,7 +8,7 @@ group :development, :test do
   gem 'guard'
   gem 'guard-rspec'
   gem 'irb'
-  gem 'mysql2'
+#  gem 'mysql2'
   gem 'rake'
   gem 'rspec'
   gem 'rubocop'

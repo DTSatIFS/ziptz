@@ -16,5 +16,5 @@ Gem::Specification.new do |s|
   s.files = Dir['[A-Z]*', '{data,lib,spec}/**/*', 'ziptz.gemspec']
   s.test_files = Dir.glob('spec/**/*_spec.rb')
   s.require_paths = ['lib']
-  s.required_ruby_version = '>= 2.0.0'
+  s.required_ruby_version = '>= 3.2.1'
 end
